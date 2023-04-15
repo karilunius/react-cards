@@ -73,5 +73,9 @@ Sed lacus felis, bibendum pellentesque urna sit amet, pharetra mollis leo.
 **gradients**
 [web](https://cssgradient.io/)
 
+**my fork**
+[web](https://github.com/karilunius/react-cards-bootstrap)
+
+**Project made by FaztWeb.**
 **Repository original example by FaztWeb**
 [web](https://github.com/FaztWeb/react-cards-bootstrap)
