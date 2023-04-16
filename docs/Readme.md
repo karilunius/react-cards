@@ -27,7 +27,7 @@ npm i bootstrap
 npm i prop-types
 ```
 **Animations**  [web](https://animate.style/)
-- This library was used but I didn't work. To install, I used 2nd option. To use globally, import at index or main:
+- This library was used but it didn't work. To install, I used 2nd option. To use globally, import at index or main:
 ```
 import 'animate.css'
 ```
