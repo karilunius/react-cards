@@ -1,6 +1,12 @@
-### About the project
+John 3:16
 
-## Youtube vid example
+# React Cards 
+
+## About the project
+
+- This is a practice learning repo, the info is described below. 
+
+### Youtube vid example
 [web](https://www.youtube.com/watch?v=1_DXtP0XyDw)
 
 ## View
